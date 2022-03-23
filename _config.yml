@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
 title: Practice
 description: This is to learn GitHub Pages
 logo: assets/img/coffee.jpg
-show_downloads: "false"
+show_downloads: false
+google_analystics:
+theme: jekyll-theme-minimal
