@@ -12,4 +12,4 @@ This is a Practice wbstie.
 
 **Stories around coffee tables**
 
-I could make menu on left side. But I am still struggling with separating them by rows and showing its contents on the right side. Let's tyr to find code sources. 
+I could make menu on left side. But I am still struggling with separating them by rows and showing its contents on the right side when clicking the menu. Let's tyr to find code sources. 
