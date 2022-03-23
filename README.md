@@ -3,7 +3,10 @@
 This is a Practice wbstie. I want to put some pictures of things that I like. 
 
 ### Coffee
-![Tell me your story](assets/img/sutar-1749303.jpg) 
+![Tell me your story](assets/img/sutar-1749303.jpg) Coffee smells good which helps me calm. 
+
+Let's figure out how to make menu bar. I am not sure how though.... 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
