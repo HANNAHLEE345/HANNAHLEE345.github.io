@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "About stories we talked about"
+permalink: https://hannahlee345.github.io/about/index
 ---
 # About
 This is for learning GitHub pages, building a website. 
 
-I love coffee. Coffee lover.
+I hope this works as I thought it would work...
