@@ -23,7 +23,7 @@ This still does not update...
 **On March 25th**
 
 Okay, now the page is working as I want it to work. 
-It has menu tap on the left side and the contents are on the right side. 
+It has teb menus on the left side and the contents are on the right side. 
 Updating on the page takes time. Why does it take this long??
 
 There needs to be both layouts **html file** and posts **md file**. 
