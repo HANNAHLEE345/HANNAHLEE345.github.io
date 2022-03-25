@@ -5,7 +5,7 @@ layout: default
 
 **Welcome**
 
-This is a Practice wbstie. 
+This is a Practice website. 
 
 **Coffee**
 ![Tell me your story](assets/img/sutar-1749303.jpg) My favorite thing about coffee is the smell.  
@@ -13,7 +13,7 @@ This is a Practice wbstie.
 
 **On March 24th**
 
-Why these changes do not show on the page? 
+These changes do not show on the page...?
 
 I could make menu on the left side. But I am still struggling with separating them by rows and showing its contents on the right side when clicking the menu. Let's try to find code sources. 
 
