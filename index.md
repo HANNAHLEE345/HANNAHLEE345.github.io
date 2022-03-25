@@ -25,5 +25,6 @@ It has menu tap on the left side and the contents are on the right side.
 Maybe it updates really slow? But why? 
 
 There needs to be both layouts **html file** and posts **md file**. 
+
 Also I want to remove **"View My GitHub Profile"** link on the tab menu.
 
