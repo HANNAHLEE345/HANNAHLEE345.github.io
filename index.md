@@ -24,7 +24,7 @@ This still does not update...
 **2nd Update**
 
 Okay, now the page is working as I want it to work. 
-It has teb menus on the left side and the contents are on the right side. 
+It has tab menus on the left side and the contents are on the right side. 
 Updating on the page takes time. Why does it take this long??
 
 There needs to be both layouts **html file** and posts **md file**. 
@@ -34,7 +34,7 @@ Also I want to remove **"View My GitHub Profile"** link on the tab menu.
 
 **3rd Update**
 
-Each tap menu has to have its own contents inside now. Waiting for updating. 
-I want to add a map on 'Venue' page and sub-tabs under 'Authors' tap. Still do not have ideas how I want to do it. 
-Hopefully the scroll bar would work here too. 
-Also I should make a page for an error. 
+Each tab menu has to have its own contents inside now. Registration tab is added. It's working as I want it to. 
+
+I want to add a map on 'Venue' page and sub-tabs under 'Authors' tab. Still do not have ideas how I want to do it. 
+Hopefully the scroll bar would work here too. Also I should make a page for an error. 
