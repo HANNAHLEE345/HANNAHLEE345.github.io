@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Venue Information
+# Venue Information
 
 Let's use Emory University information
 
