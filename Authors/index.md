@@ -11,3 +11,7 @@ This tab should contain guideline and important dates.
 ## Important dates
 
 ## General instruction
+
+---
+
+[Registration](../Registration)
