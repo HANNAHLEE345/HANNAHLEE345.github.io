@@ -17,4 +17,4 @@ It will have a big pdf file. Let's see if this webpage is working.
 	4:00:00 PM	H	h	cmv
 	5:00:00 PM	I	i	cks}}![image](https://user-images.githubusercontent.com/100803293/161099780-cd58f27c-90e5-4eab-80f1-e47797be7ca3.png)
 
-[MONNAY SESSIONS](../MONDAY)
+[MONNAY SESSIONS](../Monday)
