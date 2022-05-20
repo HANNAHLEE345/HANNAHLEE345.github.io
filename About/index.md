@@ -2,12 +2,12 @@
 layout: default
 ---
 # About
-This is for learning GitHub pages, building a website. 
+This is the template that I worked. 
+Let's see how this would look different or it works locally. 
 
-I hope this works as I thought it would work.
+**Maybe this might work**
 
-**Bold**
-
+It's now working now.. I am not sure why.
 Let's add a website [link](https://pixabay.com/) for non copyrighted images.
 
 Is there anything else to talk about?? 
