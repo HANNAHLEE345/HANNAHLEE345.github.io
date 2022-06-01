@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-# About
-This is the template that I worked. 
-Let's see how this would look different or it works locally. 
+# About 
 
-**Working from a cabin in Asheville**
+**A Thousand Brains**
 
-It will be raining whole day today. 
+***Part 1***
+A New Understanding of the Brain
+
+The cells in your head are reading these words. 
 
 ---
 
