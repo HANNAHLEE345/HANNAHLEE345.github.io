@@ -12,14 +12,14 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="This is to learn Github pages. &lt;ul&gt;About&lt;/ul&gt; &lt;ul&gt;Venue&lt;/ul&gt; &lt;ul&gt;Programme&lt;/ul&gt; &lt;ul&gt;Calendar&lt;/ul&gt; &lt;ul&gt;Authors&lt;/ul&gt; &lt;ul&gt;Sponsor&lt;/ul&gt; &lt;ul&gt;Registration&lt;/ul&gt;" />
 <meta property="og:description" content="This is to learn Github pages. &lt;ul&gt;About&lt;/ul&gt; &lt;ul&gt;Venue&lt;/ul&gt; &lt;ul&gt;Programme&lt;/ul&gt; &lt;ul&gt;Calendar&lt;/ul&gt; &lt;ul&gt;Authors&lt;/ul&gt; &lt;ul&gt;Sponsor&lt;/ul&gt; &lt;ul&gt;Registration&lt;/ul&gt;" />
-<link rel="canonical" href="http://localhost:4000/Venue/" />
-<meta property="og:url" content="http://localhost:4000/Venue/" />
+<link rel="canonical" href="http://localhost:4000/Calendar/index.md.txt" />
+<meta property="og:url" content="http://localhost:4000/Calendar/index.md.txt" />
 <meta property="og:site_name" content="Practice" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Practice" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"This is to learn Github pages. &lt;ul&gt;About&lt;/ul&gt; &lt;ul&gt;Venue&lt;/ul&gt; &lt;ul&gt;Programme&lt;/ul&gt; &lt;ul&gt;Calendar&lt;/ul&gt; &lt;ul&gt;Authors&lt;/ul&gt; &lt;ul&gt;Sponsor&lt;/ul&gt; &lt;ul&gt;Registration&lt;/ul&gt;","headline":"Practice","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/coffee.jpg"}},"url":"http://localhost:4000/Venue/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"This is to learn Github pages. &lt;ul&gt;About&lt;/ul&gt; &lt;ul&gt;Venue&lt;/ul&gt; &lt;ul&gt;Programme&lt;/ul&gt; &lt;ul&gt;Calendar&lt;/ul&gt; &lt;ul&gt;Authors&lt;/ul&gt; &lt;ul&gt;Sponsor&lt;/ul&gt; &lt;ul&gt;Registration&lt;/ul&gt;","headline":"Practice","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/coffee.jpg"}},"url":"http://localhost:4000/Calendar/index.md.txt"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=">
@@ -55,15 +55,11 @@
       </header>
       <section>
 
-      <h1 id="venue-information">Venue Information</h1>
+      # Calendar
 
-<p>Let’s use Emory University information</p>
+---
 
-<p><strong>Emory Universiry</strong>
-Emory Uinversity is a private research university in Atlanta, Georgia, US. Founded in 1839 as “Emroy College” by the Methodist Episcopal Church and named in honor of Methodist bishop John Emory. Emory is the second-oldest private institution of higher education in Georgia.</p>
-
-<p><strong>Location</strong>
-Let’s figure out how to add “Map” here.</p>
+[HOME](../)
 
 
       </section>
