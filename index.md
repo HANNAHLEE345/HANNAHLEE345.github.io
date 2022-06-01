@@ -20,21 +20,6 @@ I could make menu on the left side. But I am still struggling with separating th
 This still does not update... 
 
 
-
-**2nd Update**
-
-Okay, now the page is working as I want it to work. 
-It has tab menus on the left side and the contents are on the right side. 
-Updating on the page takes time. Why does it take this long??
-
-There needs to be both layouts **html file** and posts **md file**. 
-
-Also I want to remove **"View My GitHub Profile"** link on the tab menu.
-
-
-**3rd Update**
-
-Each tab menu has to have its own contents inside now. Registration tab is added. It's working as I want it to. 
-
-I want to add a map on 'Venue' page and sub-tabs under 'Authors' tab. Still do not have ideas how I want to do it. 
-Hopefully the scroll bar would work here too. Also I should make a page for an error. 
+**Location**
+School of Medicine, Emory University
+[um- iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3315.732177734427!2d-84.32365288435649!3d33.79341368067717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f506fa05920093%3A0x262d6790fb6fd912!2sEmory%20University%20School%20of%20Medicine%20GME%20Office!5e0!3m2!1sen!2sus!4v1654096696559!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe] 
